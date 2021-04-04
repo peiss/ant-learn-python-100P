@@ -1,0 +1,126 @@
+New to programming? Python is free and easy to learn if you know where to start! This guide will help you to get started quickly.
+
+Chinese Translation
+
+New to Python?
+Read BeginnersGuide/Overview for a short explanation of what Python is.
+
+Getting Python
+Next, install the Python 3 interpreter on your computer. This is the program that reads Python programs and carries out their instructions; you need it before you can do any Python programming. Mac and Linux distributions may include an outdated version of Python (Python 2), but you should install an updated one (Python 3). See BeginnersGuide/Download for instructions to download the correct version of Python.
+
+There are also Python interpreter and IDE bundles available, such as Thonny. Other options can be found at IntegratedDevelopmentEnvironments.
+
+At some stage, you'll want to edit and save your program code. Take a look at HowToEditPythonCode for some advice and recommendations.
+
+Learning Python
+Next, read a tutorial and try some simple experiments with your new Python interpreter.
+
+If you have never programmed before, see BeginnersGuide/NonProgrammers for a list of suitable tutorials.
+
+If you have previous programming experience, consult BeginnersGuide/Programmers, which lists more advanced tutorials.
+
+If English isn't your first language, you might be more comfortable with a tutorial that's been translated into your language. Consult python.org's list of Non-English resources.
+
+Most tutorials assume that you know how to run a program on your computer. If you are using Windows and need help with this, see How do I Run a Program Under Windows.
+
+Some sites offer in-browser coding for those who want to learn Python:
+
+
+Codecademy
+
+Coding Bootcamps
+
+DataCamp
+
+Dataquest for Python for data science.
+
+HackInScience free and open source platform.
+
+High School Technology Services for general Python
+
+Print a cheat sheet of the most important Python features and post it to your office wall until you know the basics well.
+
+Once you have read a tutorial, you can browse through Python's online documentation. It includes a tutorial that might come in handy, a Library Reference that lists all of the modules that come standard with Python, and the Language Reference for a complete (if rather dry) explanation of Python's syntax.
+
+When you are ready to write your first program, you will need a text editor or an IDE. If you don't want to use Thonny or something more advanced, then you can use IDLE, which is bundled with Python and supports extensions.
+
+This Python wiki also contains a page about Python One-Liners -- an obscure but interesting subculture in Python.
+
+Need Help?
+Need help with any of this? Read BeginnersGuide/Help for mailing lists and newsgroups.
+
+Most Python books will include an introduction to the language; see IntroductoryBooks for suggested titles.
+
+Consult BeginnersGuide/Examples for small programs and little snippets of code that can help you learn.
+
+Or, if you prefer to learn Python through listening to a lecture, you can attend a training course or even hire a trainer to come to your company. Consult the PythonEvents page to see if any training courses are scheduled in your area and the PythonTraining page for a list of trainers.
+
+Teachers can join the EDU-SIG, a mailing list for discussion of Python's use in teaching at any level ranging from K-12 up to university.
+
+Complete list of Beginner's Guide pages
+BeginnersGuide/Download
+BeginnersGuide/Examples
+BeginnersGuide/Help
+BeginnersGuide/Mathematics
+BeginnersGuide/NonProgrammers
+BeginnersGuide/Overview
+BeginnersGuide/Programmers
+BeginnersGuide/Programmers (Cpp2Python.pdf)
+BeginnersGuide/Programmers/SimpleExamples
+Quiz and Exercises
+Finxter - How good are your Python skills? Test and Training with a Daily Python Puzzle
+
+CheckIO - Online learning, testing and improving your python skills
+
+After Hours Programming - Python Quiz
+
+Python Guru Quiz- Python Quiz
+
+Pyschools - A Collection of Python Quiz and Exercise Questions
+
+PyGUI - Collection of python quiz answers, Examples And GUI Tkinter Tutorials For Beginners
+
+Pythonspot - Python Quiz
+
+Python Challenge - A Python Quiz App on Android Platform
+
+CS Circles - online lessons and graded exercises
+
+Python Style Checker
+Pythonchecker.com - An educative online tool to rate your Python style (with dynamic score computation and hints)
+
+Looking for a particular Python module or application?
+The first place to look is the Python Package Index.
+
+If you can't find anything relevant in the Package Index,
+try searching python.org - you can find anything mentioned on the Python site, in the FAQs, or in the newsgroup. More info: where to search.
+
+You may also try our external guest project, pydoc.net, for advanced package and module search.
+
+Next, try Google or another search engine of your choice. Searching for "python" and some relevant keywords will usually find something helpful.
+
+Finally, you can try posting a query to the comp.lang.python Usenet group.
+Python-Related Cheat Sheets
+Python: Collection of 11 Best Python Cheat Sheets
+
+NumPy: Collection of 10 Best NumPy Cheat Sheets
+
+Pandas: Collection of 7 Beautiful Pandas Cheat Sheets
+
+Machine Learning: Collection of 15 Machine Learning Cheat Sheets
+
+Want to contribute?
+Python is a product of the Python Software Foundation, a non-profit organization that holds the copyright. Donations to the PSF are tax-deductible in the USA, and you can donate via credit card or PayPal.
+
+To report a bug in the Python core, use the Python Bug Tracker.
+
+To contribute a bug fix or other patch to the Python core, read the Python Developer's Guide for more information about Python's development process.
+
+To contribute to the official Python documentation, join the Documentation SIG, write to docs@python.org , or use the Issue Tracker to contribute a documentation patch.
+
+To announce your module or application to the Python community, use comp.lang.python.announce. See the guide to Python mailing lists for more information.
+
+To propose changes to the Python core, post your thoughts to comp.lang.python. If you have an implementation, follow the Python Patch Guidelines.
+
+If you have a question are not sure where to report it, check out the WhereDoIReportThis? page.
+
